@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+  font-family: Tahoma;
+}
+img {
+  height: 120px;
+}
+h1 {
+  padding-bottom: 35px;
+  font-family: Tahoma;
+  margin-bottom: 45px;
+}
+header {
+  background-color: brown;
+  color: azure;
+  text-align: center;
+}
+main {
+  padding: 0px 250px 50px 250px;
+}
+h2 {
+  color: azure;
+  background-color: brown;
+  line-height: 50px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+a {
+  color: rgb(99, 93, 93);
+}
+div {
+  border: darkred 3px solid;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
+footer {
+  color: azure;
+  background-color: brown;
+  text-align: center;
+  line-height: 90px;
+}
